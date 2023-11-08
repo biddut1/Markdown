@@ -6,7 +6,7 @@
 
 [profile-pic](./image/biddut.jpg)
 
-<img src="./image/biddut.jpg" width="100"/>
+<img src="./biddut.jpg" width="100"/>
 
 _My Skill_
 ---
