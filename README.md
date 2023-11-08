@@ -40,7 +40,7 @@ _Language Skill_
 |Bangla|English|Hindi|
 |4th|5th|6th|
 |Arabic|Spanish|French|
-|
+
 
 Some Practice of Markdown
 ---
